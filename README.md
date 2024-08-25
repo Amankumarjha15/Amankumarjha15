@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aman kumar jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumarjha15&label=Profile%20views&color=0e75b6&style=flat" alt="amankumarjha15" /> </p>
+
+<p align="left"> <a href="https://twitter.com/amankumarjha_15" target="blank"><img src="https://img.shields.io/twitter/follow/amankumarjha_15?logo=twitter&style=for-the-badge" alt="amankumarjha_15" /></a> </p>
+
 - 🔭 I’m currently working on **Movie-app-netflix**
 
 - 🌱 I’m currently learning **React.js , gsap**
 
+- 💬 Ask me about **javascript ,react**
+
 - 📫 How to reach me **amanjhakr6299@gmail.com**
+
+- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankumarjha15&show_icons=true&locale=en&layout=compact" alt="amankumarjha15" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amankumarjha15&show_icons=true&locale=en" alt="amankumarjha15" /></p>
-
