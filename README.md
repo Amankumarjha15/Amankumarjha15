@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **amanjhakr6299@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
