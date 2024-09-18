@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **amanjhakr6299@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankumarjha15&show_icons=true&locale=en&layout=compact" alt="amankumarjha15" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amankumarjha15&show_icons=true&locale=en" alt="amankumarjha15" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amankumarjha15&" alt="amankumarjha15" /></p>
