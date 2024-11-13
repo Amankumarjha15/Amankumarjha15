@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/amankumarjha_15" target="blank"><img src="https://img.shields.io/twitter/follow/amankumarjha_15?logo=twitter&style=for-the-badge" alt="amankumarjha_15" /></a> </p>
 
-- 🔭 I’m currently working on **Swiggy-project**
+- 🔭 I’m currently working on **Study-notion Full Stack Project**
 
 - 🌱 I’m currently learning **Full stack MERN**
 
