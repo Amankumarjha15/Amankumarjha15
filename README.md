@@ -72,6 +72,7 @@
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
