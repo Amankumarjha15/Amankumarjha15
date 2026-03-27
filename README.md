@@ -117,9 +117,9 @@
 ---
 
 <p align="center">
-  <b>💡 "First build it. Then scale it. Then optimize it." 🚀</b>
+  <b>💡 "From code to scale — building systems that last." 🚀</b>
 </p>
 
 <p align="center">
-  <i>💡 "Every expert was once a beginner. Keep building."🚀</i>
+  <i>💡 "Every expert was once a beginner. Keep building. Keep raising the bar"🚀</i>
 </p>
